@@ -1,3 +1,4 @@
 # gerrymanderingJP
 いつぞやの卒研で使ったものをazure notebookからサルベージしただけです
+
 使用した衆議院議員選挙に関するデータはすべてUniversity of North Texasの前田耕先生が公開されているものです
