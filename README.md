@@ -1,0 +1,2 @@
+# gerrymanderingJP
+いつぞやの卒研で使ったものをazure notebookからサルベージしただけです
